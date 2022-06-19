@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Typography, Chip, Button, Card, CardMedia, CardContent, CardActions, CardHeaderPropsWithComponent } from '@material-ui/core';
+import { Box, Typography, Chip, Button, Card, CardMedia, CardContent,CardActions } from '@material-ui/core';
 import LocationOnIcon from '@material-ui/icons/LocationOn'
 import PhoneIcon from '@material-ui/icons/Phone'
 import Rating from '@material-ui/lab/Rating'
