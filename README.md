@@ -19,14 +19,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-  
-<h3 align="center">Preview Website
-  <br/>
-  <a href="https://berkay-travel-advisor.netlify.app/" target="_blank">
-    👉 Click Here 👈
-  </a>
-</h3>
-  
+ 
 ## How using at my locale ?
 <p align="center">
 <h3>1️⃣ Project is cloned ©️</h3>
