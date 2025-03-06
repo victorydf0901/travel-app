@@ -19,29 +19,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
- 
-## How using at my locale ?
-<p align="center">
-<h3>1️⃣ Project is cloned ©️</h3>
-  
-```javascript
-git clone https://github.com/berkaynayman/travel-advisor.git
-```
-
-<h3>2️⃣ Project dependencies download 🔽</h3>
-  
-```javascript
-npm install
-```
-
-<h3>3️⃣ Project Running 🏃 🥳</h3>
-  
-```javascript
-npm start
-```
-
-</p>
-
-# 👁️ That is Travel Advisor App
-
-![screencapture-berkay-travel-advisor-netlify-app-2022-06-19-12_04_22](https://user-images.githubusercontent.com/62603509/174473750-39997ffa-7184-4b71-b79b-37cab36f6305.png)
